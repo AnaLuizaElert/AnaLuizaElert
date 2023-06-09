@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/107824361/244558302-56096b03-1afa-4a12-9460-dac99f27f613.png" />
+  <img src="https://github.com/AnaLuizaElert/AnaLuizaElert/assets/107824361/9368ff93-01dd-445f-beb2-8e16fabcd009" />
 </p>
 
 <p align="center">I am a student of Information Technology and I am currently taking the course of Information Systems Programming at CENTROWEG, in Jaraguá do Sul, Brazil. I have a passion for software development and am constantly improving my skills and knowledge.</p>
