@@ -2,7 +2,7 @@
   <img src="https://github.com/AnaLuizaElert/AnaLuizaElert/assets/107824361/9368ff93-01dd-445f-beb2-8e16fabcd009" />
 </p>
 
-<p align="center">I am a student of Information Technology and I am currently taking the course of Information Systems Programming at CENTROWEG, in Jaraguá do Sul, Brazil. I have a passion for software development and am constantly improving my skills and knowledge.</p>
+<p align="center">I am a student of Information Technology and I am currently taking the course of analysis and systems development in UDESC, Brazil. I have a passion for software development and am constantly improving my skills and knowledge.</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
